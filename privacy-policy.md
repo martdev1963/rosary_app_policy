@@ -111,8 +111,8 @@ Because we store minimal data locally on your device and do not operate user-ide
 
 If you have questions about this Privacy Policy or our practices, please contact us:
 
-- **Email:** [Your contact email]
-- **Address:** [Your contact address or company address]
+- **Email:** martsofteng@gmail.com
+- **Address:** 2907 Hearthstone Way, Orlando Florida 32839
 
 ---
 
